@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>実験 on ztyh</title>
+    <link>http://ztyh.github.io/tags/%E5%AE%9F%E9%A8%93/</link>
+    <description>Recent content in 実験 on ztyh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>ztyh</copyright>
+    <lastBuildDate>Sun, 08 Jul 2018 14:32:54 -0400</lastBuildDate>
+    
+	<atom:link href="http://ztyh.github.io/tags/%E5%AE%9F%E9%A8%93/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>マークダウン使ってみた</title>
+      <link>http://ztyh.github.io/post/test/</link>
+      <pubDate>Sun, 08 Jul 2018 14:32:54 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/post/test/</guid>
+      <description>自分用です。コードブロックは、 ```.py import pandas as pd ``` でこうなる import pandas as pd 引用は&amp;gt;でできる うまいもの 食べたいね ちょっとしたコードは`で囲むpytho</description>
+    </item>
+    
+  </channel>
+</rss>

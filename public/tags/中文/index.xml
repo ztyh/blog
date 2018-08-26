@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>中文 on ztyh</title>
+    <link>http://ztyh.github.io/tags/%E4%B8%AD%E6%96%87/</link>
+    <description>Recent content in 中文 on ztyh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>ztyh</copyright>
+    <lastBuildDate>Sun, 08 Jul 2018 12:30:22 -0400</lastBuildDate>
+    
+	<atom:link href="http://ztyh.github.io/tags/%E4%B8%AD%E6%96%87/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>天行健</title>
+      <link>http://ztyh.github.io/post/word/</link>
+      <pubDate>Sun, 08 Jul 2018 12:30:22 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/post/word/</guid>
+      <description>君子以自彊不息</description>
+    </item>
+    
+  </channel>
+</rss>

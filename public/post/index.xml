@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on ztyh</title>
+    <link>http://ztyh.github.io/post/</link>
+    <description>Recent content in Posts on ztyh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>ztyh</copyright>
+    <lastBuildDate>Sun, 26 Aug 2018 10:24:40 -0400</lastBuildDate>
+    
+	<atom:link href="http://ztyh.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hugoでの記事アップロード手順</title>
+      <link>http://ztyh.github.io/post/hugo/</link>
+      <pubDate>Sun, 26 Aug 2018 10:24:40 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/post/hugo/</guid>
+      <description>啓蒙と言うよりかはただ単なる自分のための備忘録です。 cd Documents/ cd Github cd web hugo new post/hugo.md atom content/post/hugo.md ./deploy.sh</description>
+    </item>
+    
+    <item>
+      <title>GS推薦銘柄</title>
+      <link>http://ztyh.github.io/post/gsstock/</link>
+      <pubDate>Sat, 14 Jul 2018 15:04:16 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/post/gsstock/</guid>
+      <description>Starbucks SBUX Northrup Grumman NOC: 軍事 Lam Research LRCX: 半導体製造装置 Micron Technology MU: 半導体 Caterpilar CAT Deere &amp;amp; Company DE: 農業機械 Norwegian Cruise Line Holdings NCLH Royal Caribbean Cruises RCL Marriott International MAR Tyson Foods TSN DowDuPont DWDP: 化学 Jacobs Engineering Group JEC: 建設 Harris Corporation HRS: 軍用情報通信 BorgWarner BWA: 自</description>
+    </item>
+    
+    <item>
+      <title>栄養素</title>
+      <link>http://ztyh.github.io/post/nutrition/</link>
+      <pubDate>Sat, 14 Jul 2018 14:47:52 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/post/nutrition/</guid>
+      <description>オメガ３： 魚、大豆 ビタミンC： キウイ、トマト、ブロッコリー、ほうれん草、芋 ビタミンE： 油、ナッツ、魚卵、青魚 セレン： 意識する必要無し 亜鉛： 牡</description>
+    </item>
+    
+    <item>
+      <title>欲しいものリスト</title>
+      <link>http://ztyh.github.io/post/wishlist/</link>
+      <pubDate>Mon, 09 Jul 2018 23:00:24 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/post/wishlist/</guid>
+      <description>たかってんじゃないですよ 書いとかないと忘れるから ベッドテント lumbar support メガネ工具</description>
+    </item>
+    
+    <item>
+      <title>マークダウン使ってみた</title>
+      <link>http://ztyh.github.io/post/test/</link>
+      <pubDate>Sun, 08 Jul 2018 14:32:54 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/post/test/</guid>
+      <description>自分用です。コードブロックは、 ```.py import pandas as pd ``` でこうなる import pandas as pd 引用は&amp;gt;でできる うまいもの 食べたいね ちょっとしたコードは`で囲むpytho</description>
+    </item>
+    
+    <item>
+      <title>天行健</title>
+      <link>http://ztyh.github.io/post/word/</link>
+      <pubDate>Sun, 08 Jul 2018 12:30:22 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/post/word/</guid>
+      <description>君子以自彊不息</description>
+    </item>
+    
+    <item>
+      <title>よろしく</title>
+      <link>http://ztyh.github.io/post/hello/</link>
+      <pubDate>Sun, 08 Jul 2018 11:41:35 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/post/hello/</guid>
+      <description>三日坊主にならないように頑張ります。</description>
+    </item>
+    
+  </channel>
+</rss>
