@@ -9,8 +9,9 @@ tags: ['hugo','日本語']
 ```.sh
 cd Documents/
 cd Github
-cd web
+cd blog
 hugo new post/hugo.md
 atom content/post/hugo.md
 ./deploy.sh
 ```
+`md`ファイルの`draft`を`false`にしておくことを忘れずに。

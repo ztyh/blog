@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on ztyh</title>
+    <title>Hugo on 鉄匠</title>
     <link>http://ztyh.github.io/tags/hugo/</link>
-    <description>Recent content in Hugo on ztyh</description>
+    <description>Recent content in Hugo on 鉄匠</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>ztyh</copyright>
+    <copyright>鉄匠</copyright>
     <lastBuildDate>Sun, 26 Aug 2018 10:24:40 -0400</lastBuildDate>
     
 	<atom:link href="http://ztyh.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
@@ -18,7 +18,7 @@
       <pubDate>Sun, 26 Aug 2018 10:24:40 -0400</pubDate>
       
       <guid>http://ztyh.github.io/post/hugo/</guid>
-      <description>啓蒙と言うよりかはただ単なる自分のための備忘録です。 cd Documents/ cd Github cd web hugo new post/hugo.md atom content/post/hugo.md ./deploy.sh</description>
+      <description>啓蒙と言うよりかはただ単なる自分のための備忘録です。 cd Documents/ cd Github cd blog hugo new post/hugo.md atom content/post/hugo.md ./deploy.sh mdファイルのdraftをfalseにしておくことを忘れずに。</description>
     </item>
     
   </channel>

@@ -1,7 +1,7 @@
 baseURL = "http://ztyh.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
-title = "ztyh"
+title = "鉄匠"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "even"
@@ -11,10 +11,10 @@ hasCJKLanguage = true     # has chinese/japanese/korean ? # 自动检测是否�
 paginate = 1                                              # 首页每页显示的文章数
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = "UA-111454513-1"      # UA-XXXXXXXX-X
-copyright = "ztyh"            # default: author.name ↓        # 默认为下面配置的author.name ↓
+copyright = "鉄匠"            # default: author.name ↓        # 默认为下面配置的author.name ↓
 
 [author]                  # essential                     # 必需
-  name = "ztyh"
+  name = "鉄匠"
 
 [sitemap]                 # essential                     # 必需
   changefreq = "weekly"
@@ -49,7 +49,7 @@ copyright = "ztyh"            # default: author.name ↓        # 默认为下�
   since = "2018"            # Site creation time          # 站点建立时间
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "ztyh"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "鉄匠"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["code", "math","stat"]
   description = "good times all day every day"
 
