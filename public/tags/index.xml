@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>ztyh</copyright>
-    <lastBuildDate>Sun, 08 Jul 2018 14:32:54 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 26 Aug 2018 10:24:40 -0400</lastBuildDate>
     
 	<atom:link href="http://ztyh.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://ztyh.github.io/tags/hugo/</link>
+      <pubDate>Sun, 26 Aug 2018 10:24:40 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Markdown</title>
@@ -27,6 +36,15 @@
       <pubDate>Sun, 08 Jul 2018 12:30:22 -0400</pubDate>
       
       <guid>http://ztyh.github.io/tags/%E4%B8%AD%E6%96%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>健康</title>
+      <link>http://ztyh.github.io/tags/%E5%81%A5%E5%BA%B7/</link>
+      <pubDate>Sat, 14 Jul 2018 14:47:52 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/tags/%E5%81%A5%E5%BA%B7/</guid>
       <description></description>
     </item>
     
@@ -51,9 +69,18 @@
     <item>
       <title>日本語</title>
       <link>http://ztyh.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</link>
-      <pubDate>Mon, 09 Jul 2018 23:00:24 -0400</pubDate>
+      <pubDate>Sun, 26 Aug 2018 10:24:40 -0400</pubDate>
       
       <guid>http://ztyh.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>株</title>
+      <link>http://ztyh.github.io/tags/%E6%A0%AA/</link>
+      <pubDate>Sat, 14 Jul 2018 15:04:16 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/tags/%E6%A0%AA/</guid>
       <description></description>
     </item>
     
