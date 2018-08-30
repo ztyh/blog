@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ztyh.github.io/post/markdown2/</loc>
+    <lastmod>2018-08-30T10:42:13-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ztyh.github.io/post/ubuntu/</loc>
     <lastmod>2018-08-30T09:32:54-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -87,14 +94,14 @@
   
   <url>
     <loc>http://ztyh.github.io/tags/markdown/</loc>
-    <lastmod>2018-07-08T14:32:54-04:00</lastmod>
+    <lastmod>2018-08-30T10:42:13-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ztyh.github.io/post/</loc>
-    <lastmod>2018-08-30T09:32:54-04:00</lastmod>
+    <lastmod>2018-08-30T10:42:13-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -157,7 +164,7 @@
   
   <url>
     <loc>http://ztyh.github.io/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/</loc>
-    <lastmod>2018-08-30T09:32:54-04:00</lastmod>
+    <lastmod>2018-08-30T10:42:13-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -192,7 +199,7 @@
   
   <url>
     <loc>http://ztyh.github.io/</loc>
-    <lastmod>2018-08-30T09:32:54-04:00</lastmod>
+    <lastmod>2018-08-30T10:42:13-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

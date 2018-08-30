@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>鉄匠</copyright>
-    <lastBuildDate>Sun, 08 Jul 2018 14:32:54 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 30 Aug 2018 10:42:13 -0400</lastBuildDate>
     
 	<atom:link href="http://ztyh.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Markdown続編</title>
+      <link>http://ztyh.github.io/post/markdown2/</link>
+      <pubDate>Thu, 30 Aug 2018 10:42:13 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/post/markdown2/</guid>
+      <description>ここに書いてあることを試しました。 空行で段落。 太字。**で囲んでます。斜体がなぜかだせない。 h1タイトル 下に ---------- ---------- を書いたら文字が大きくなって</description>
+    </item>
     
     <item>
       <title>マークダウン使ってみた</title>
