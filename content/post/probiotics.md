@@ -9,16 +9,16 @@ tags: ['日本語','健康']
 
 こちらが買ったものの写真です。![写真](/images/IMG_20180903_192958.jpg)二つで13ドルちょっとです。サイリウム100錠、善玉菌30錠。冷蔵しなきゃいけないのもありましたがこれは必要ないそうです。結局冷蔵庫に入れてますが。入ってる10種の菌は以下です。
 
-Lactobacillus rhamnosus
-L. casei
-L. acidophilus
-L. plantarum
-L. bulgaricus
-L. salivarius
-B. bifidum
-S. thermophilus
-B. longum
-B. breve
+Lactobacillus rhamnosus  
+L. casei  
+L. acidophilus  
+L. plantarum  
+L. bulgaricus  
+L. salivarius  
+B. bifidum  
+S. thermophilus  
+B. longum  
+B. breve  
 
 大塚製薬の記事に載ってるのが多いですね。安心しました。というのは日本人に有効な菌とアメリカ人に有効な菌ってもしかしたら違うかもしれないのではと思ったので。でもそんなことは無いようです。130億CFUの物を買いました。500億のとかもあります。CFUって菌の量の単位です。
 
