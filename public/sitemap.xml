@@ -3,6 +3,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://ztyh.github.io/post/bluelight/</loc>
+    <lastmod>2018-09-04T17:34:10-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>http://ztyh.github.io/post/probiotics/</loc>
     <lastmod>2018-09-04T15:45:56-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -93,6 +100,13 @@
   </url>
   
   <url>
+    <loc>http://ztyh.github.io/tags/english/</loc>
+    <lastmod>2018-09-04T17:34:10-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://ztyh.github.io/tags/hugo/</loc>
     <lastmod>2018-08-26T10:24:40-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -108,14 +122,21 @@
   
   <url>
     <loc>http://ztyh.github.io/post/</loc>
-    <lastmod>2018-09-04T15:45:56-04:00</lastmod>
+    <lastmod>2018-09-04T17:34:10-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://ztyh.github.io/tags/</loc>
-    <lastmod>2018-08-26T10:24:40-04:00</lastmod>
+    <lastmod>2018-09-04T17:34:10-04:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://ztyh.github.io/tags/tech/</loc>
+    <lastmod>2018-09-04T17:34:10-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -206,7 +227,7 @@
   
   <url>
     <loc>http://ztyh.github.io/</loc>
-    <lastmod>2018-09-04T15:45:56-04:00</lastmod>
+    <lastmod>2018-09-04T17:34:10-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

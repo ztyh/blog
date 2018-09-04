@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on 鉄匠</title>
+    <link>http://ztyh.github.io/tags/tech/</link>
+    <description>Recent content in Tech on 鉄匠</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>鉄匠</copyright>
+    <lastBuildDate>Tue, 04 Sep 2018 17:34:10 -0400</lastBuildDate>
+    
+	<atom:link href="http://ztyh.github.io/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bluelight</title>
+      <link>http://ztyh.github.io/post/bluelight/</link>
+      <pubDate>Tue, 04 Sep 2018 17:34:10 -0400</pubDate>
+      
+      <guid>http://ztyh.github.io/post/bluelight/</guid>
+      <description>In the night mode of Oneplus 3, the links in blue are not visible. I think they may be completely cutting the bluelight. I had been using a blue theme for this blog but decided to change to green in light of this. To change the theme color in hugo even, go to blog/themes/even/src/css/_variable.scss, choose theme there, and run the following.
+cd blog/themes/even/src/ npm install npm run build  </description>
+    </item>
+    
+  </channel>
+</rss>
