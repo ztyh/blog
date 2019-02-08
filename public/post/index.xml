@@ -180,5 +180,14 @@ cd blog/themes/even/src/ npm install npm run build  </description>
       <description>三日坊主にならないように頑張ります。</description>
     </item>
     
+    <item>
+      <title>Pythonのreで重複マッチ</title>
+      <link>http://ztyh.github.io/post/overlap/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://ztyh.github.io/post/overlap/</guid>
+      <description>以下をご覧になってください。 これ見てたのですが、普通にマッチを探そうとしても三つしか見つけてくれない事に気づきました。調べたらこれで解決でき</description>
+    </item>
+    
   </channel>
 </rss>

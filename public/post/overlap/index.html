@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <title>Ubuntu · 鉄匠</title>
+  <title>Pythonのreで重複マッチ - 鉄匠</title>
   <meta name="renderer" content="webkit" />
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
 
@@ -17,7 +17,8 @@
 
 
 <meta name="author" content="鉄匠" />
-  <meta name="description" content="good times all day every day" />
+  <meta name="description" content="以下をご覧になってください。 これ見てたのですが、普通にマッチを探そうとしても三つしか見つけてくれない事に気づきました。調べたらこれで解決でき" />
+
   <meta name="keywords" content="code, math, stat" />
 
 
@@ -28,9 +29,7 @@
 <meta name="generator" content="Hugo 0.47.1" />
 
 
-<link rel="canonical" href="http://ztyh.github.io/tags/ubuntu/" />
-<link href="http://ztyh.github.io/tags/ubuntu/index.xml" rel="alternate" type="application/rss+xml" title="鉄匠" />
-  <link href="http://ztyh.github.io/tags/ubuntu/index.xml" rel="feed" type="application/rss+xml" title="鉄匠" />
+<link rel="canonical" href="http://ztyh.github.io/post/overlap/" />
 
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
@@ -52,17 +51,25 @@
 <link rel="stylesheet" href="/css/removerss.css">
 
 
-<meta property="og:title" content="Ubuntu" />
-<meta property="og:description" content="good times all day every day" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="http://ztyh.github.io/tags/ubuntu/" />
-<meta property="og:updated_time" content="2018-08-30T09:32:54-04:00"/>
-<meta itemprop="name" content="Ubuntu">
-<meta itemprop="description" content="good times all day every day">
+<meta property="og:title" content="Pythonのreで重複マッチ" />
+<meta property="og:description" content="以下をご覧になってください。 これ見てたのですが、普通にマッチを探そうとしても三つしか見つけてくれない事に気づきました。調べたらこれで解決でき" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://ztyh.github.io/post/overlap/" /><meta property="article:published_time" content="2018-01-15T00:00:00&#43;00:00"/>
+<meta property="article:modified_time" content="2018-01-15T00:00:00&#43;00:00"/>
+<meta itemprop="name" content="Pythonのreで重複マッチ">
+<meta itemprop="description" content="以下をご覧になってください。 これ見てたのですが、普通にマッチを探そうとしても三つしか見つけてくれない事に気づきました。調べたらこれで解決でき">
 
+
+<meta itemprop="datePublished" content="2018-01-15T00:00:00&#43;00:00" />
+<meta itemprop="dateModified" content="2018-01-15T00:00:00&#43;00:00" />
+<meta itemprop="wordCount" content="164">
+
+
+
+<meta itemprop="keywords" content="日本語,python,学習," />
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Ubuntu"/>
-<meta name="twitter:description" content="good times all day every day"/>
+<meta name="twitter:title" content="Pythonのreで重複マッチ"/>
+<meta name="twitter:description" content="以下をご覧になってください。 これ見てたのですが、普通にマッチを探そうとしても三つしか見つけてくれない事に気づきました。調べたらこれで解決でき"/>
 
 <!--[if lte IE 9]>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -118,38 +125,87 @@
     <main id="main" class="main">
       <div class="content-wrapper">
         <div id="content" class="content">
-          
-
-<section id="archive" class="archive">
-  
+          <article class="post">
     
-      <div class="archive-title tag">
-        <h2 class="archive-name">Ubuntu</h2>
+    <header class="post-header">
+      <h1 class="post-title">Pythonのreで重複マッチ</h1>
+
+      <div class="post-meta">
+        <span class="post-time"> 2018-01-15 </span>
+        
+        
+        
       </div>
+    </header>
+
     
+    
+<div class="post-toc" id="post-toc">
+  <h2 class="post-toc-title">Contents</h2>
   
+  <div class="post-toc-content always-active">
+    
+  </div>
+</div>
 
-  
-    <div class="archive-post">
-      <span class="archive-post-time">
-        2018-08-30
-      </span>
-      <span class="archive-post-title">
-        <a href="/post/ubuntu/" class="archive-post-link">
-          Ubuntuコマンド集
-        </a>
-      </span>
+    
+    
+
+    
+    <div class="post-content">
+      <p>以下をご覧になってください。</p>
+
+<script src="https://gist.github.com/ztyh/c411ecfd41dac44453ac48f3de21204f.js"></script>
+
+<p><a href="https://youtu.be/K8L6KVGG-7o">これ</a>見てたのですが、普通にマッチを探そうとしても三つしか見つけてくれない事に気づきました。調べたら<a href="https://stackoverflow.com/questions/5616822/python-regex-find-all-overlapping-matches">これ</a>で解決できたのですが味噌は<code>(?=...)</code>と<code>()</code>で作るグループと<code>group(1)</code>です。普通マッチが見つかればマッチしたものは検索する文字列から取り除かれます。しかし<code>?=</code>を使う場合はそうではありません。</p>
+
     </div>
-  
-</section>
 
-<nav class="pagination">
+    
+    <div class="post-copyright">
+  <p class="copyright-item">
+    <span class="item-title">Author</span>
+    <span class="item-content">鉄匠</span>
+  </p>
+  <p class="copyright-item">
+    <span class="item-title">LastMod</span>
+    <span class="item-content">2018-01-15</span>
+  </p>
   
   
-</nav>
+</div>
 
+    
+    
+
+    <footer class="post-footer">
+      <div class="post-tags">
+          
+          <a href="/tags/%E6%97%A5%E6%9C%AC%E8%AA%9E/">日本語</a>
+          
+          <a href="/tags/python/">python</a>
+          
+          <a href="/tags/%E5%AD%A6%E7%BF%92/">学習</a>
+          
+        </div>
+
+      
+      <nav class="post-nav">
+        
+          <a class="prev" href="/post/hello/">
+            <i class="iconfont icon-left"></i>
+            <span class="prev-text nav-default">よろしく</span>
+            <span class="prev-text nav-mobile">Prev</span>
+          </a>
+        
+      </nav>
+    </footer>
+  </article>
         </div>
         
+  
+
+  
 
       </div>
     </main>
@@ -199,6 +255,15 @@
 
 
 <script type="text/javascript" src="/dist/even.min.js?v=3.2.0"></script>
+  <script type="text/javascript">
+    window.MathJax = {
+      tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]},
+      TeX: {equationNumbers: {autoNumber: "AMS"}},
+      showProcessingMessages: false,
+      messageStyle: 'none'
+    };
+  </script>
+  <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 
 <script type="application/javascript">

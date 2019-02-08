@@ -21,5 +21,14 @@
       <description>各々の書類において、漢字がどのように現れるか比べることで様々な文書がどういう分類に属するかと考えたときポアンカレ埋め込みがもしかしたら役にた</description>
     </item>
     
+    <item>
+      <title>Pythonのreで重複マッチ</title>
+      <link>http://ztyh.github.io/post/overlap/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://ztyh.github.io/post/overlap/</guid>
+      <description>以下をご覧になってください。 これ見てたのですが、普通にマッチを探そうとしても三つしか見つけてくれない事に気づきました。調べたらこれで解決でき</description>
+    </item>
+    
   </channel>
 </rss>
