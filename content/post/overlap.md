@@ -1,6 +1,7 @@
+
 ---
 title: "Pythonのreで重複マッチ"
-date: 2018-01-15
+date: 2018-01-15T18:57:52-05:00
 draft: false
 tags: ['日本語','python','学習']
 ---
