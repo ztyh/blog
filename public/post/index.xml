@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>ジョインしたテーブルをグループ化して最大値を同順も含めて求める</title>
+      <link>http://ztyh.github.io/post/alsjoin/</link>
+      <pubDate>Fri, 09 Nov 2018 20:13:48 -0500</pubDate>
+      
+      <guid>http://ztyh.github.io/post/alsjoin/</guid>
+      <description>タイトルの説明じゃ多分わかりにくいですね。売り上げ情報がsales_recordsに入ってて商品情報がitemsに入っている。もっとも売れた</description>
+    </item>
+    
+    <item>
       <title>運試し</title>
       <link>http://ztyh.github.io/post/lottery/</link>
       <pubDate>Sun, 28 Oct 2018 21:00:00 -0400</pubDate>
