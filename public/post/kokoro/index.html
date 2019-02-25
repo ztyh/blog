@@ -203,7 +203,7 @@ $$
 
 <p>以下のような損失関数を考えます。
 $$
-L=\sum_{(u,v)\in D} \log \frac{{\exp(-d(u,v))}}{}{\sum_{v&rsquo; \in N(u)} \exp(-d(u,v&rsquo;))}}
+L=\sum_{(u,v)\in D} \log \frac{{\exp(-d(u,v))}}{{\sum_{v&rsquo; \in N(u)} \exp(-d(u,v&rsquo;))}}
 $$
 $D$ってのは繋がってるペアの集合です。$N(u)$ってのは$u$と繋がっていない点の集合です。繋がってる点どうしは近くに、繋がっていない点どうしは遠くに置くとこの関数は大きくなります。ですからまず最初に適当に（それなりに散らばせたりした方がいいという話もある）埋め込んでこの$L$が大きくなるように勾配降下法で更新していきます。埋め込まれた点を$u_1$, $u_2$, $\cdots$, $u_n$とします。これを変えると$L$がどうなるか知りたいわけだから勾配は$(\partial L/\partial u_1,\partial L/\partial u_2,\cdots, \partial L/\partial u_n)^t$です。この勾配ベクトルを$\nabla_E$と表記します。EuclideanのEです。各項はこんな感じです。
 $$
