@@ -52,13 +52,6 @@
   </url>
   
   <url>
-    <loc>http://ztyh.github.io/post/probioticsresult/</loc>
-    <lastmod>2018-10-03T13:41:34-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://ztyh.github.io/post/gist/</loc>
     <lastmod>2018-09-09T14:02:59-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,20 +87,6 @@
   </url>
   
   <url>
-    <loc>http://ztyh.github.io/post/research/</loc>
-    <lastmod>2018-08-26T14:41:50-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ztyh.github.io/post/traffic/</loc>
-    <lastmod>2018-08-26T13:57:00-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>http://ztyh.github.io/post/hugo/</loc>
     <lastmod>2018-08-26T10:24:40-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -117,20 +96,6 @@
   <url>
     <loc>http://ztyh.github.io/post/gsstock/</loc>
     <lastmod>2018-07-14T15:04:16-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ztyh.github.io/post/nutrition/</loc>
-    <lastmod>2018-07-14T14:47:52-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>http://ztyh.github.io/post/wishlist/</loc>
-    <lastmod>2018-07-09T23:00:24-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -247,13 +212,6 @@
   </url>
   
   <url>
-    <loc>http://ztyh.github.io/tags/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB/</loc>
-    <lastmod>2018-08-26T13:57:00-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://ztyh.github.io/tags/%E4%B8%AD%E6%96%87/</loc>
     <lastmod>2018-07-08T12:30:22-04:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -261,15 +219,8 @@
   </url>
   
   <url>
-    <loc>http://ztyh.github.io/tags/%E4%BA%A4%E9%80%9A/</loc>
-    <lastmod>2018-08-26T13:57:00-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://ztyh.github.io/tags/%E5%81%A5%E5%BA%B7/</loc>
-    <lastmod>2018-10-03T13:41:34-04:00</lastmod>
+    <lastmod>2018-09-04T15:45:56-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>
@@ -305,13 +256,6 @@
   <url>
     <loc>http://ztyh.github.io/tags/%E6%A0%AA/</loc>
     <lastmod>2018-07-14T15:04:16-04:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://ztyh.github.io/tags/%E7%A0%94%E7%A9%B6/</loc>
-    <lastmod>2018-08-26T14:41:50-04:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0</priority>
   </url>

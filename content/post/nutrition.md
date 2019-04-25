@@ -1,7 +1,7 @@
 ---
 title: "栄養素"
 date: 2018-07-14T14:47:52-04:00
-draft: false
+draft: true
 tags: ['日本語','健康']
 ---
 オメガ３：　魚、大豆  
